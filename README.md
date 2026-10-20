@@ -10,7 +10,7 @@ npm test         # Exam 6 reducer tests
 ```
 Rules met: no state management library (React Hooks only), runs with `npm install` then `npm run dev`, submit without `node_modules` (see `.gitignore`).
 
-Debugging notes and demos appear in a collapsed "Debugging notes" panel at the bottom of each exam. Click it to expand.
+Debugging explanations for every required case are in each exam's README (`src/exams/<exam>/README.md`), not in the app UI.
 
 ## Structure
 ```
